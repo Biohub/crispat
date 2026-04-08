@@ -25,7 +25,7 @@ setuptools.setup(
         "distributed>=2023.6.0",
         "ipywidgets>=8.1.5",
         "matplotlib>=3.7.1",
-        "numpy>=1.24.3",
+        "numpy>=2.0.0",
         "pandas>=1.5.3",
         "pyro-ppl>=1.8.6",
         "scanpy>=1.9.3",
